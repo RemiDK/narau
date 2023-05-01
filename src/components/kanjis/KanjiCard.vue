@@ -10,7 +10,7 @@
           <p class="kanji-card__prononciation">{{ selectedKanji.onyomi }}</p>
         </div>
         <div v-if="selectedKanji.onyomiExample.length > 0" class="kanji-card__example">Exemple :</div>
-        <div v-for="onyoumiExample in selectedKanji.onyomiExample">
+        <div v-for="(onyoumiExample, index) in selectedKanji.onyomiExample" v-bind:key="index">
           <div>{{ onyoumiExample.example }}</div>
           <div>{{ onyoumiExample.translation }}</div>
         </div>
@@ -20,7 +20,8 @@
           <p class="kanji-card__prononciation">{{ selectedKanji.kunyomi }}</p>
         </div>
         <div v-if="selectedKanji.kunyomiExample.length > 0" class="kanji-card__example">Exemple :</div>
-        <div class="kanji-card__example__item" v-for="kunyoumiExample in selectedKanji.kunyomiExample">
+        <div class="kanji-card__example__item"
+        v-for="(kunyoumiExample, index) in selectedKanji.kunyomiExample" v-bind:key="index">
           <div>{{ kunyoumiExample.example }}</div>
           <div>{{ kunyoumiExample.translation }}</div>
         </div>

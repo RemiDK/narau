@@ -6,7 +6,8 @@
                 <h3 class="kanji-exercise-options__section-title">Niveau Jlpt :</h3>
                 <v-radio-group v-model="jlptLevel">
                     <v-radio 
-                    v-for="jlptLevel in allJlptLevels" :color="jlptLevel.color" :label="jlptLevel.level" :value="jlptLevel.value">
+                    v-for="(jlptLevel, index) in allJlptLevels" :color="jlptLevel.color" :label="jlptLevel.level"
+                    :value="jlptLevel.value" v-bind:key="index">
                     </v-radio>
                 </v-radio-group>
             </v-col>

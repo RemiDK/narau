@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "word": "浴びる",
+        "kana": "あびる",
+        "translation": "Se baigner, se laver",
+        "example": [
+            {
+                "sentence": "シャワーを浴びる",
+                "translation": "Prendre une douche"
+            }
+        ]
+    }
+]

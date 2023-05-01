@@ -2,10 +2,10 @@
   <v-container>
     <Kanji-navbar @change-level="(level: number) => selectedKanjiLevel = level"></Kanji-navbar>
     <div v-if="kanjiList" class="all-kanji-cards">
-      <div v-for="(kanji) in kanjiList">
-        <div v-if="selectedKanjiLevel === kanji.level" class="kanji-box"
+      <div v-for="(kanji, index) in kanjiList" v-bind:key="index">
+        <div v-if="selectedKanjiLevel === kanji.level" class="custom-card"
         @click="router.push({ name: 'KanjiCard', params: {jlptNumber: kanji.level, selectedKanjiId: kanji.id} })">
-        <p class="kanji-box__kanji">
+        <p class="custom-card__kanji">
           {{ kanji.kanji }}
         </p>
         <p>

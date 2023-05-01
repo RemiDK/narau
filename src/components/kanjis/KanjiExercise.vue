@@ -3,7 +3,7 @@
         <div class="answer-card">
             <div class="answer-card__event answer-card__event--kanji">{{ currentCard.kanji }}</div>
             <v-row class="answer-card__buttons-row">
-                <v-col cols="5" v-for="(card, index) in shuffledCards">
+                <v-col cols="5" v-for="(card, index) in shuffledCards" v-bind:key="index">
                     <v-btn height="100px" block class="answer-card__btn"
                     v-if="answers[index].color"
                     :color="answers[index].color"
@@ -15,16 +15,22 @@
             </v-row>
             <div v-if="displayExamples != false">
                 <div class="answer-card__example__title">Exemple(s)</div>
-                <div v-if="props.prononciation === 'onyomi'" v-for="example in currentCard.onyomiExample">
-                    <div class="answer-card__example__row">
-                        <div>{{ example.example }}</div>
-                        <div>{{ example.translation }}</div>
+                <div  v-if="props.prononciation === 'onyomi'" >
+                    <div v-for="(example, index) in currentCard.onyomiExample"
+                v-bind:key="index">
+                        <div class="answer-card__example__row">
+                            <div>{{ example.example }}</div>
+                            <div>{{ example.translation }}</div>
+                        </div>
                     </div>
                 </div>
-                <div v-if="props.prononciation === 'kunyomi'" v-for="example in currentCard.kunyomiExample">
-                    <div class="answer-card__example__row">
-                        <v-col>{{ example.example }}</v-col>
-                        <v-col>{{ example.translation }}</v-col>
+                <div v-if="props.prononciation === 'kunyomi'" >
+                    <div v-for="(example, index) in currentCard.kunyomiExample"
+                v-bind:key="index">
+                        <div class="answer-card__example__row">
+                            <v-col>{{ example.example }}</v-col>
+                            <v-col>{{ example.translation }}</v-col>
+                        </div>
                     </div>
                 </div>
                 <v-btn @click="changeKanji()">
