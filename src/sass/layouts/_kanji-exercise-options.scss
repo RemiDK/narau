@@ -1,0 +1,20 @@
+.kanji-exercise-options {
+    margin-top: 5%;
+
+    &__section-title {
+        margin-bottom: 2%;
+    }
+
+    &__col {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    &__btn {
+        padding-top: 5%;
+        display: flex;
+        justify-content: center;
+    }
+}

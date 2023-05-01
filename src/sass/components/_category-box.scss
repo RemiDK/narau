@@ -1,0 +1,65 @@
+.category-box {
+  border-radius: 5px;
+  padding: 5%;
+  margin: 10%;
+  height: 300px;
+  width: 500px!important;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+
+  &__background {
+    background-color: rgba(212, 214, 213, 0.8);
+    height: 100%;
+    width: 100%;
+  }
+
+  &__title {
+    text-align: center;
+    font-family: Calibri, serif;
+    font-weight: bolder;
+    font-size: 2em;
+    padding-top: 5%;
+  }
+
+  &__list {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 3%;
+    font-size: 1.2em;
+
+    &__element {
+      margin: 1.5%;
+      width: 50%;
+    }
+  }
+
+  &__history {
+    background-image: url("./src/assets/history-category-background.png");
+    background-size: cover;
+  }
+
+  &__badminton {
+    background-image: url("./src/assets/badminton-category-background.png");
+    background-size: cover;
+  }
+
+  &__japanese-kanji {
+    background-image: url("./src/assets/japanese-category-background.jpg");
+    background-size: cover;
+  }
+
+  &__japanese-vocabulary {
+    background-image: url("./src/assets/japanese-vocabulary-background.jpg");
+    background-size: cover;
+  }
+
+  &__japanese-grammar {
+    background-image: url("./src/assets/japanese-grammar-background.jpg");
+    background-size: cover;
+  }
+
+  &__work {
+    background-image: url("./src/assets/work-category-background.jpg");
+    background-size: cover;
+  }
+}

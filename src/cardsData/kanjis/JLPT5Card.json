@@ -1,0 +1,1239 @@
+[
+  {
+    "id": 1,
+    "kanji": "一",
+    "level": 5,
+    "meaning": "Un",
+    "onyomi": "イチ、イツ",
+    "onyomiExample": [
+      {
+        "example": "唯一（ゆいいつ）",
+        "translation": "Seul, unique"
+      }
+    ],
+    "kunyomi": "ひと",
+    "kunyomiExample": []
+  },
+  {
+    "id": 2,
+    "kanji": "二",
+    "level": 5,
+    "meaning": "Deux",
+    "onyomi": "ニ",
+    "onyomiExample": [],
+    "kunyomi": "ふた",
+    "kunyomiExample": []
+  },
+  {
+    "id": 3,
+    "kanji": "三",
+    "level": 5,
+    "meaning": "Trois",
+    "onyomi": "サン",
+    "onyomiExample": [],
+    "kunyomi": "み、みっ",
+    "kunyomiExample": []
+  },
+  {
+    "id": 4,
+    "kanji": "四",
+    "level": 5,
+    "meaning": "Quatre",
+    "onyomi": "シ",
+    "onyomiExample": [],
+    "kunyomi": "よん、よ",
+    "kunyomiExample": []
+  },
+  {
+    "id": 5,
+    "kanji": "五",
+    "level": 5,
+    "meaning": "Cinq",
+    "onyomi": "ゴ",
+    "onyomiExample": [],
+    "kunyomi": "いつ",
+    "kunyomiExample": []
+  },
+  {
+    "id": 6,
+    "kanji": "六",
+    "level": 5,
+    "meaning": "Six",
+    "onyomi": "ロク",
+    "onyomiExample": [],
+    "kunyomi": "む",
+    "kunyomiExample": []
+  },
+  {
+    "id": 7,
+    "kanji": "七",
+    "level": 5,
+    "meaning": "Sept",
+    "onyomi": "シチ",
+    "onyomiExample": [],
+    "kunyomi": "なな、なの",
+    "kunyomiExample": [
+      {
+        "example": "七日（なのか）",
+        "translation": "Septième jour"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "kanji": "八",
+    "level": 5,
+    "meaning": "Huit",
+    "onyomi": "ハチ",
+    "onyomiExample": [],
+    "kunyomi": "や、やっ、よう",
+    "kunyomiExample": [
+      {
+        "example": "八百屋（やおや）",
+        "translation": "Marchand de fruits et légumes"
+      },
+      {
+        "example": "八日（ようか）",
+        "translation": "Huitième jour"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "kanji": "九",
+    "level": 5,
+    "meaning": "Neuf",
+    "onyomi": "キュウ、ク",
+    "onyomiExample": [],
+    "kunyomi": "ここの",
+    "kunyomiExample": []
+  },
+  {
+    "id": 10,
+    "kanji": "十",
+    "level": 5,
+    "meaning": "Dix",
+    "onyomi": "ジュウ",
+    "onyomiExample": [],
+    "kunyomi": "とう",
+    "kunyomiExample": [
+      {
+        "example": "十日（とおか）",
+        "translation": "Dixième jour"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "kanji": "百",
+    "level": 5,
+    "meaning": "Cent",
+    "onyomi": "ヒャク、ビャク",
+    "onyomiExample": [],
+    "kunyomi": "ここの",
+    "kunyomiExample": []
+  },
+  {
+    "id": 12,
+    "kanji": "千",
+    "level": 5,
+    "meaning": "Mille",
+    "onyomi": "セン",
+    "onyomiExample": [],
+    "kunyomi": "ち",
+    "kunyomiExample": [
+      {
+        "example": "千葉",
+        "translation": "Chiba"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "kanji": "水",
+    "level": 5,
+    "meaning": "Eau",
+    "onyomi": "スイ",
+    "onyomiExample": [
+      {
+        "example": "水曜日（すいようび）",
+        "translation": "Mercredi"
+      }
+    ],
+    "kunyomi": "みず",
+    "kunyomiExample": [
+      {
+        "example": "水",
+        "translation": "Eau"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "kanji": "火",
+    "level": 5,
+    "meaning": "Feu",
+    "onyomi": "カ",
+    "onyomiExample": [
+      {
+        "example": "火曜日（かようび）",
+        "translation": "Mardi"
+      }
+    ],
+    "kunyomi": "ひ",
+    "kunyomiExample": [
+      {
+        "example": "火",
+        "translation": "Feu"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "kanji": "木",
+    "level": 5,
+    "meaning": "Bois",
+    "onyomi": "モク",
+    "onyomiExample": [],
+    "kunyomi": "き",
+    "kunyomiExample": []
+  },
+  {
+    "id": 16,
+    "kanji": "上",
+    "level": 5,
+    "meaning": "Haut, monter",
+    "onyomi": "ジョウ、シャン",
+    "onyomiExample": [
+      {
+        "example": "上手（じょうず）",
+        "translation": "Doué"
+      },
+      {
+        "example": "上海",
+        "translation": "Shanghaï"
+      }
+    ],
+    "kunyomi": "うえ、あ.げる、のぼ.る",
+    "kunyomiExample": []
+  },
+  {
+    "id": 17,
+    "kanji": "下",
+    "level": 5,
+    "meaning": "Bas, descendre",
+    "onyomi": "カ、ゲ",
+    "onyomiExample": [
+      {
+        "example": "地下鉄（ちかてつ）",
+        "translation": "Métro"
+      },
+      {
+        "example": "下駄（げた）",
+        "translation": "Geta"
+      }
+    ],
+    "kunyomi": "した、さ.げる、くだ.る",
+    "kunyomiExample": [
+      {
+        "example": "下げる（さげる）",
+        "translation": "Baisser quelque chose"
+      },
+      {
+        "example": "下る（くだる）",
+        "translation": "Descendre (inverse de のぼる)"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "kanji": "中",
+    "level": 5,
+    "meaning": "Milieu, dans",
+    "onyomi": "チュウ",
+    "onyomiExample": [],
+    "kunyomi": "なか、うち",
+    "kunyomiExample": [
+      {
+        "example": "中（なか/うち）",
+        "translation": "À l'intérieur / entre, parmi"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "kanji": "人",
+    "level": 5,
+    "meaning": "Être humain, personne",
+    "onyomi": "ジン、ニン",
+    "onyomiExample": [],
+    "kunyomi": "ひと",
+    "kunyomiExample": []
+  },
+  {
+    "id": 20,
+    "kanji": "休",
+    "level": 5,
+    "meaning": "Être humain, personne",
+    "onyomi": "キュウ",
+    "onyomiExample": [
+      {
+        "example": "休暇（きゅうか）",
+        "translation": "Pause, vacances"
+      }
+    ],
+    "kunyomi": "やす.む",
+    "kunyomiExample": []
+  },
+  {
+    "id": 21,
+    "kanji": "先",
+    "level": 5,
+    "meaning": "Avant, devant",
+    "onyomi": "セン",
+    "onyomiExample": [],
+    "kunyomi": "さき、ま.ず",
+    "kunyomiExample": [
+      {
+        "example": "お先（さき）",
+        "translation": "Excusez-moi de partir"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "kanji": "入",
+    "level": 5,
+    "meaning": "Entrer",
+    "onyomi": "ニュウ",
+    "onyomiExample": [
+      {
+        "example": "入院（にゅういん）",
+        "translation": "Hôstpitalisation"
+      }
+    ],
+    "kunyomi": "い.る、はい.る",
+    "kunyomiExample": []
+  },
+  {
+    "id": 23,
+    "kanji": "円",
+    "level": 5,
+    "meaning": "Yen, cercle",
+    "onyomi": "エン",
+    "onyomiExample": [],
+    "kunyomi": "まる.い",
+    "kunyomiExample": []
+  },
+  {
+    "id": 24,
+    "kanji": "出",
+    "level": 5,
+    "meaning": "Sortir, quitter, présence",
+    "onyomi": "シュツ",
+    "onyomiExample": [
+      {
+        "example": "出発（しゅっぱつ）",
+        "translation": "Départ"
+      }
+    ],
+    "kunyomi": "で.る、だ.す",
+    "kunyomiExample": []
+  },
+  {
+    "id": 25,
+    "kanji": "口",
+    "level": 5,
+    "meaning": "Bouche",
+    "onyomi": "コウ",
+    "onyomiExample": [
+      {
+        "example": "人口（じんこう）",
+        "translation": "Population"
+      }
+    ],
+    "kunyomi": "くち",
+    "kunyomiExample": []
+  },
+  {
+    "id": 26,
+    "kanji": "右",
+    "level": 5,
+    "meaning": "Droite",
+    "onyomi": "ユウ、ウ",
+    "onyomiExample": [
+      {
+        "example": "左右（さゆう）",
+        "translation": "Gauche et droite. De gauche à droite"
+      }
+    ],
+    "kunyomi": "みぎ",
+    "kunyomiExample": []
+  },
+  {
+    "id": 27,
+    "kanji": "左",
+    "level": 5,
+    "meaning": "Gauche",
+    "onyomi": "ユウ",
+    "onyomiExample": [
+      {
+        "example": "左右（さゆう）",
+        "translation": "Gauche et droite. De gauche à droite"
+      }
+    ],
+    "kunyomi": "ひだり",
+    "kunyomiExample": []
+  },
+  {
+    "id": 28,
+    "kanji": "名",
+    "level": 5,
+    "meaning": "Nom, célèbre",
+    "onyomi": "メイ、ミョウ",
+    "onyomiExample": [
+      {
+        "example": "有名（ゆうめい）",
+        "translation": "Célèbre"
+      },
+      {
+        "example": "名字（みょうじ）",
+        "translation": "Nom de famille"
+      }
+    ],
+    "kunyomi": "な",
+    "kunyomiExample": [
+      {
+        "example": "名前（なまえ）",
+        "translation": "Nom"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "kanji": "土",
+    "level": 5,
+    "meaning": "Sol, terre",
+    "onyomi": "ド、ト",
+    "onyomiExample": [
+      {
+        "example": "土地（とち）",
+        "translation": "Parcelle de terre"
+      }
+    ],
+    "kunyomi": "つち",
+    "kunyomiExample": []
+  },
+  {
+    "id": 30,
+    "kanji": "大",
+    "level": 5,
+    "meaning": "Grand",
+    "onyomi": "ダイ、タイ",
+    "onyomiExample": [
+      {
+        "example": "大好き（だいすき）",
+        "translation": "Aimer beaucoup"
+      },
+      {
+        "example": "大切（たいせつ）",
+        "translation": "Important"
+      }
+    ],
+    "kunyomi": "おお.きい",
+    "kunyomiExample": []
+  },
+  {
+    "id": 31,
+    "kanji": "天",
+    "level": 5,
+    "meaning": "Ciel, impérial",
+    "onyomi": "テン",
+    "onyomiExample": [],
+    "kunyomi": "",
+    "kunyomiExample": []
+  },
+  {
+    "id": 32,
+    "kanji": "女",
+    "level": 5,
+    "meaning": "Femme",
+    "onyomi": "ジョ、ニョウ",
+    "onyomiExample": [
+      {
+        "example": "女房（にょうぼう）",
+        "translation": "(ma) femme"
+      }
+    ],
+    "kunyomi": "おんな、め",
+    "kunyomiExample": [
+      {
+        "example": "女神（めがみ）",
+        "translation": "Déesse"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "kanji": "子",
+    "level": 5,
+    "meaning": "Enfant",
+    "onyomi": "シ、ス",
+    "onyomiExample": [
+      {
+        "example": "帽子（ぼうし）",
+        "translation": "Chapeau"
+      },
+      {
+        "example": "椅子（いす）",
+        "translation": "Chaise"
+      }
+    ],
+    "kunyomi": "こ",
+    "kunyomiExample": []
+  },
+  {
+    "id": 34,
+    "kanji": "学",
+    "level": 5,
+    "meaning": "Étudier, science",
+    "onyomi": "ガク",
+    "onyomiExample": [],
+    "kunyomi": "まな.ぶ",
+    "kunyomiExample": [
+      {
+        "example": "学ぶ（まなぶ）",
+        "translation": "Apprendre en profondeur"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "kanji": "小",
+    "level": 5,
+    "meaning": "Petit",
+    "onyomi": "ショウ",
+    "onyomiExample": [],
+    "kunyomi": "ちい.さい、こ",
+    "kunyomiExample": [
+      {
+        "example": "小麦（こむぎ）",
+        "translation": "Blé"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "kanji": "山",
+    "level": 5,
+    "meaning": "Montagne",
+    "onyomi": "サン",
+    "onyomiExample": [],
+    "kunyomi": "やま",
+    "kunyomiExample": []
+  },
+  {
+    "id": 37,
+    "kanji": "川",
+    "level": 5,
+    "meaning": "Rivière",
+    "onyomi": "セン",
+    "onyomiExample": [
+      {
+        "example": "河川（かせん）",
+        "translation": "Cours d'eau"
+      }
+    ],
+    "kunyomi": "かわ",
+    "kunyomiExample": []
+  },
+  {
+    "id": 38,
+    "kanji": "年",
+    "level": 5,
+    "meaning": "Année",
+    "onyomi": "ネン",
+    "onyomiExample": [],
+    "kunyomi": "とし",
+    "kunyomiExample": []
+  },
+  {
+    "id": 39,
+    "kanji": "手",
+    "level": 5,
+    "meaning": "Main",
+    "onyomi": "シュ",
+    "onyomiExample": [
+      {
+        "example": "運転手（うんてんしゅ）",
+        "translation": "Conducteur"
+      }
+    ],
+    "kunyomi": "て",
+    "kunyomiExample": []
+  },
+  {
+    "id": 40,
+    "kanji": "日",
+    "level": 5,
+    "meaning": "Jour, soleil, Japon",
+    "onyomi": "ニチ、ジツ",
+    "onyomiExample": [
+      {
+        "example": "先日（せんじつ）",
+        "translation": "L'autre jour"
+      }
+    ],
+    "kunyomi": "ひ、か",
+    "kunyomiExample": []
+  },
+  {
+    "id": 41,
+    "kanji": "月",
+    "level": 5,
+    "meaning": "Lune, mois",
+    "onyomi": "ゲツ、ガツ",
+    "onyomiExample": [],
+    "kunyomi": "つき",
+    "kunyomiExample": []
+  },
+  {
+    "id": 42,
+    "kanji": "本",
+    "level": 5,
+    "meaning": "Livre",
+    "onyomi": "ホン",
+    "onyomiExample": [],
+    "kunyomi": "もと",
+    "kunyomiExample": []
+  },
+  {
+    "id": 43,
+    "kanji": "校",
+    "level": 5,
+    "meaning": "École",
+    "onyomi": "コウ",
+    "onyomiExample": [],
+    "kunyomi": "",
+    "kunyomiExample": []
+  },
+  {
+    "id": 44,
+    "kanji": "気",
+    "level": 5,
+    "meaning": "Esprit, humeur",
+    "onyomi": "キ",
+    "onyomiExample": [],
+    "kunyomi": "",
+    "kunyomiExample": []
+  },
+  {
+    "id": 45,
+    "kanji": "生",
+    "level": 5,
+    "meaning": "Vivre, naître, cru",
+    "onyomi": "セイ、ショウ",
+    "onyomiExample": [
+      {
+        "example": "一生懸命（いっしょうけんめい）",
+        "translation": "De toute ses forces"
+      }
+    ],
+    "kunyomi": "い.きる、う.まれる、なま",
+    "kunyomiExample": []
+  },
+  {
+    "id": 46,
+    "kanji": "男",
+    "level": 5,
+    "meaning": "Homme",
+    "onyomi": "ダン、ナン",
+    "onyomiExample": [
+      {
+        "example": "長男（ちょうなん）",
+        "translation": "Fils ainé"
+      }
+    ],
+    "kunyomi": "おとこ",
+    "kunyomiExample": []
+  },
+  {
+    "id": 47,
+    "kanji": "白",
+    "level": 5,
+    "meaning": "Blanc",
+    "onyomi": "はく",
+    "onyomiExample": [
+      {
+        "example": "白米（はくまい）",
+        "translation": "Riz blanc"
+      }
+    ],
+    "kunyomi": "こめ",
+    "kunyomiExample": []
+  },
+  {
+    "id": 48,
+    "kanji": "目",
+    "level": 5,
+    "meaning": "Oeil",
+    "onyomi": "モク",
+    "onyomiExample": [
+      {
+        "example": "目的（もくてき）",
+        "translation": "But"
+      }
+    ],
+    "kunyomi": "め",
+    "kunyomiExample": []
+  },
+  {
+    "id": 49,
+    "kanji": "空",
+    "level": 5,
+    "meaning": "Ciel, creux, vide",
+    "onyomi": "クウ",
+    "onyomiExample": [],
+    "kunyomi": "そら、あ.く、す.く",
+    "kunyomiExample": [
+      {
+        "example": "空く（すく）",
+        "translation": "Être vide"
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "kanji": "立",
+    "level": 5,
+    "meaning": "Être debout, établir",
+    "onyomi": "リツ",
+    "onyomiExample": [
+      {
+        "example": "立派（りっぱ）",
+        "translation": "Magnifique, splendide"
+      }
+    ],
+    "kunyomi": "た.つ",
+    "kunyomiExample": []
+  },
+  {
+    "id": 51,
+    "kanji": "耳",
+    "level": 5,
+    "meaning": "Oreille",
+    "onyomi": "ジ",
+    "onyomiExample": [
+      {
+        "example": "内耳（ないじ）",
+        "translation": "Oreille interne"
+      }
+    ],
+    "kunyomi": "みみ",
+    "kunyomiExample": []
+  },
+  {
+    "id": 52,
+    "kanji": "花",
+    "level": 5,
+    "meaning": "Fleur",
+    "onyomi": "カ",
+    "onyomiExample": [
+      {
+        "example": "花瓶（かびん）",
+        "translation": "Vase"
+      }
+    ],
+    "kunyomi": "はな",
+    "kunyomiExample": []
+  },
+  {
+    "id": 53,
+    "kanji": "見",
+    "level": 5,
+    "meaning": "Regarder, voir",
+    "onyomi": "ケン",
+    "onyomiExample": [
+      {
+        "example": "意見（いけん）",
+        "translation": "Avis, opinion"
+      }
+    ],
+    "kunyomi": "み.る、み.せる",
+    "kunyomiExample": []
+  },
+  {
+    "id": 54,
+    "kanji": "足",
+    "level": 5,
+    "meaning": "Jambe, être suffisant, ajouter",
+    "onyomi": "ソク",
+    "onyomiExample": [
+      {
+        "example": "満足（まんぞく）",
+        "translation": "Satisfait"
+      }
+    ],
+    "kunyomi": "あし、た.りる、た.す",
+    "kunyomiExample": [
+      {
+        "example": "足す（たす）",
+        "translation": "Ajouter (des nombres)"
+      },
+      {
+        "example": "足りる（たりる）",
+        "translation": "Être suffisant"
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "kanji": "車",
+    "level": 5,
+    "meaning": "Véhicule, voiture",
+    "onyomi": "シャ",
+    "onyomiExample": [],
+    "kunyomi": "くるま",
+    "kunyomiExample": []
+  },
+  {
+    "id": 56,
+    "kanji": "金",
+    "level": 5,
+    "meaning": "Or",
+    "onyomi": "キン",
+    "onyomiExample": [],
+    "kunyomi": "かね",
+    "kunyomiExample": []
+  },
+  {
+    "id": 57,
+    "kanji": "雨",
+    "level": 5,
+    "meaning": "Pluie",
+    "onyomi": "ウ",
+    "onyomiExample": [
+      {
+        "example": "雨氷（うひょう）",
+        "translation": "Verglas"
+      }
+    ],
+    "kunyomi": "あめ",
+    "kunyomiExample": []
+  },
+  {
+    "id": 58,
+    "kanji": "万",
+    "level": 5,
+    "meaning": "Dix mille",
+    "onyomi": "マン、バン",
+    "onyomiExample": [],
+    "kunyomi": "",
+    "kunyomiExample": []
+  },
+  {
+    "id": 59,
+    "kanji": "今",
+    "level": 5,
+    "meaning": "Maintenant",
+    "onyomi": "コン",
+    "onyomiExample": [],
+    "kunyomi": "いま",
+    "kunyomiExample": []
+  },
+  {
+    "id": 60,
+    "kanji": "会",
+    "level": 5,
+    "meaning": "Réunion, rencontre, parti",
+    "onyomi": "カイ",
+    "onyomiExample": [],
+    "kunyomi": "あ.う",
+    "kunyomiExample": []
+  },
+  {
+    "id": 61,
+    "kanji": "何",
+    "level": 5,
+    "meaning": "Quoi, que",
+    "onyomi": "カ",
+    "onyomiExample": [
+      {
+        "example": "幾何（きか）",
+        "translation": "Géométrie"
+      }
+    ],
+    "kunyomi": "なん、なに",
+    "kunyomiExample": []
+  },
+  {
+    "id": 62,
+    "kanji": "分",
+    "level": 5,
+    "meaning": "Comprendre, minute",
+    "onyomi": "フン、ブン",
+    "onyomiExample": [],
+    "kunyomi": "わ.かる",
+    "kunyomiExample": []
+  },
+  {
+    "id": 63,
+    "kanji": "前",
+    "level": 5,
+    "meaning": "Avant, devant",
+    "onyomi": "ゼン",
+    "onyomiExample": [
+      {
+        "example": "午前（ごぜん）",
+        "translation": "Matinée"
+      }
+    ],
+    "kunyomi": "まえ",
+    "kunyomiExample": []
+  },
+  {
+    "id": 64,
+    "kanji": "北",
+    "level": 5,
+    "meaning": "Nord",
+    "onyomi": "ホク",
+    "onyomiExample": [
+      {
+        "example": "北海道（ほっかいどう）",
+        "translation": "Hokkaidô"
+      }
+    ],
+    "kunyomi": "きた",
+    "kunyomiExample": []
+  },
+  {
+    "id": 65,
+    "kanji": "午",
+    "level": 5,
+    "meaning": "Midi",
+    "onyomi": "ゴ",
+    "onyomiExample": [],
+    "kunyomi": "",
+    "kunyomiExample": []
+  },
+  {
+    "id": 66,
+    "kanji": "半",
+    "level": 5,
+    "meaning": "Moitié, milieu",
+    "onyomi": "ハン",
+    "onyomiExample": [],
+    "kunyomi": "なか.ば",
+    "kunyomiExample": [
+      {
+        "example": "半ば（なかば）",
+        "translation": "Moitié, mi-chemin, demi"
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "kanji": "南",
+    "level": 5,
+    "meaning": "Sud",
+    "onyomi": "ナン",
+    "onyomiExample": [
+      {
+        "example": "南米（なんべい）",
+        "translation": "Amérique du sud"
+      }
+    ],
+    "kunyomi": "みなみ",
+    "kunyomiExample": []
+  },
+  {
+    "id": 68,
+    "kanji": "友",
+    "level": 5,
+    "meaning": "Ami",
+    "onyomi": "ゆう",
+    "onyomiExample": [],
+    "kunyomi": "トモ",
+    "kunyomiExample": []
+  },
+  {
+    "id": 69,
+    "kanji": "古",
+    "level": 5,
+    "meaning": "Vieux, ancien",
+    "onyomi": "コ",
+    "onyomiExample": [],
+    "kunyomi": "ふる.い",
+    "kunyomiExample": []
+  },
+  {
+    "id": 70,
+    "kanji": "国",
+    "level": 5,
+    "meaning": "Pays",
+    "onyomi": "コク",
+    "onyomiExample": [],
+    "kunyomi": "くに",
+    "kunyomiExample": []
+  },
+  {
+    "id": 71,
+    "kanji": "外",
+    "level": 5,
+    "meaning": "Exterieur, dehors",
+    "onyomi": "ガイ",
+    "onyomiExample": [],
+    "kunyomi": "そと、はず",
+    "kunyomiExample": [
+      {
+        "example": "外す（はずす）",
+        "translation": "Retirer, enlever (ex : lunettes)"
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "kanji": "多",
+    "level": 5,
+    "meaning": "Nombreux, beaucoup",
+    "onyomi": "タ",
+    "onyomiExample": [
+      {
+        "example": "多分（たぶん）",
+        "translation": "Peut-être"
+      }
+    ],
+    "kunyomi": "おお.い",
+    "kunyomiExample": []
+  },
+  {
+    "id": 73,
+    "kanji": "少",
+    "level": 5,
+    "meaning": "Un peu, peu de",
+    "onyomi": "ショウ",
+    "onyomiExample": [
+      {
+        "example": "少女（しょうじょ）",
+        "translation": "Jeune fille"
+      }
+    ],
+    "kunyomi": "すく.ない、すこ.し",
+    "kunyomiExample": []
+  },
+  {
+    "id": 74,
+    "kanji": "店",
+    "level": 5,
+    "meaning": "Magasin",
+    "onyomi": "テン",
+    "onyomiExample": [],
+    "kunyomi": "みせ",
+    "kunyomiExample": []
+  },
+  {
+    "id": 75,
+    "kanji": "後",
+    "level": 5,
+    "meaning": "Après, derrière",
+    "onyomi": "ゴ、コウ",
+    "onyomiExample": [
+      {
+        "example": "後者（こうしゃ）",
+        "translation": "Ce dernier"
+      }
+    ],
+    "kunyomi": "うし.ろ、あと",
+    "kunyomiExample": []
+  },
+  {
+    "id": 76,
+    "kanji": "新",
+    "level": 5,
+    "meaning": "Nouveau, frais",
+    "onyomi": "シン",
+    "onyomiExample": [],
+    "kunyomi": "あたら.しい",
+    "kunyomiExample": []
+  },
+  {
+    "id": 77,
+    "kanji": "時",
+    "level": 5,
+    "meaning": "Temps, heure",
+    "onyomi": "ジ",
+    "onyomiExample": [],
+    "kunyomi": "とき",
+    "kunyomiExample": []
+  },
+  {
+    "id": 78,
+    "kanji": "書",
+    "level": 5,
+    "meaning": "Écrire",
+    "onyomi": "ショ",
+    "onyomiExample": [],
+    "kunyomi": "か.く",
+    "kunyomiExample": []
+  },
+  {
+    "id": 79,
+    "kanji": "来",
+    "level": 5,
+    "meaning": "Venir, suivant",
+    "onyomi": "ライ",
+    "onyomiExample": [],
+    "kunyomi": "く.る",
+    "kunyomiExample": []
+  },
+  {
+    "id": 80,
+    "kanji": "東",
+    "level": 5,
+    "meaning": "Est",
+    "onyomi": "トウ",
+    "onyomiExample": [],
+    "kunyomi": "ひがし",
+    "kunyomiExample": []
+  },
+  {
+    "id": 81,
+    "kanji": "母",
+    "level": 5,
+    "meaning": "Maman",
+    "onyomi": "ボ",
+    "onyomiExample": [
+      {
+        "example": "祖母（そぼ）",
+        "translation": "Grand-mère"
+      }
+    ],
+    "kunyomi": "はは",
+    "kunyomiExample": []
+  },
+  {
+    "id": 82,
+    "kanji": "毎",
+    "level": 5,
+    "meaning": "Chaque",
+    "onyomi": "マイ",
+    "onyomiExample": [],
+    "kunyomi": "ごと",
+    "kunyomiExample": []
+  },
+  {
+    "id": 83,
+    "kanji": "父",
+    "level": 5,
+    "meaning": "Père",
+    "onyomi": "フ",
+    "onyomiExample": [
+      {
+        "example": "祖父（そふ）",
+        "translation": "Grand-père"
+      }
+    ],
+    "kunyomi": "ちち",
+    "kunyomiExample": []
+  },
+  {
+    "id": 84,
+    "kanji": "社",
+    "level": 5,
+    "meaning": "Entreprise, société, temple shinto",
+    "onyomi": "シャ",
+    "onyomiExample": [
+      {
+        "example": "神社（じんじゃ）",
+        "translation": "Sanctuaire"
+      }
+    ],
+    "kunyomi": "やしろ",
+    "kunyomiExample": []
+  },
+  {
+    "id": 85,
+    "kanji": "聞",
+    "level": 5,
+    "meaning": "Entendre",
+    "onyomi": "ブン",
+    "onyomiExample": [],
+    "kunyomi": "き.く",
+    "kunyomiExample": []
+  },
+  {
+    "id": 86,
+    "kanji": "行",
+    "level": 5,
+    "meaning": "Aller, voyage",
+    "onyomi": "コウ、ギョウ",
+    "onyomiExample": [
+      {
+        "example": "行儀（ぎょうぎ）",
+        "translation": "Comportement"
+      }
+    ],
+    "kunyomi": "い.く、ゆ.く、おこな.う",
+    "kunyomiExample": [
+      {
+        "example": "行う（おこなう）",
+        "translation": "Accomplir, faire, effectuer"
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "kanji": "西",
+    "level": 5,
+    "meaning": "Ouest",
+    "onyomi": "セイ",
+    "onyomiExample": [
+      {
+        "example": "西洋（せいよう）",
+        "translation": "Occident"
+      }
+    ],
+    "kunyomi": "にし",
+    "kunyomiExample": []
+  },
+  {
+    "id": 88,
+    "kanji": "言",
+    "level": 5,
+    "meaning": "Dire, parler",
+    "onyomi": "ゲン",
+    "onyomiExample": [
+      {
+        "example": "言語（げんご）",
+        "translation": "Langage"
+      }
+    ],
+    "kunyomi": "い.う",
+    "kunyomiExample": []
+  },
+  {
+    "id": 89,
+    "kanji": "話",
+    "level": 5,
+    "meaning": "Parler, histoire",
+    "onyomi": "ワ",
+    "onyomiExample": [
+      {
+        "example": "電話（でんわ）",
+        "translation": "Téléphone"
+      }
+    ],
+    "kunyomi": "はなし、はな．す",
+    "kunyomiExample": []
+  },
+  {
+    "id": 90,
+    "kanji": "語",
+    "level": 5,
+    "meaning": "Ouest",
+    "onyomi": "ゴ",
+    "onyomiExample": [],
+    "kunyomi": "かた.る",
+    "kunyomiExample": []
+  }
+]

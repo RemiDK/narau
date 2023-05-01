@@ -1,0 +1,21 @@
+[
+    {
+        "id": 6,
+        "kanji": "力",
+        "level": 4,
+        "meaning": "Force",
+        "onyomi": "リョク、リキ",
+        "onyomiExample": [
+            {
+                "example": "協力（きょうりょく）",
+                "translation": "Coopération"
+            },
+            {
+                "example": "力士（りきし）",
+                "translation": "Rikishi"
+            }
+        ],
+        "kunyomi": "ちから",
+        "kunyomiExample": []
+    }
+]

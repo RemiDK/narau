@@ -1,0 +1,65 @@
+.kanji-card {
+  display: flex;
+  justify-content: center;
+  padding-top: 5%;
+  text-align: center;
+  
+  &__col {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 5px;
+    margin: 1%;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+  }
+  
+  &__kanji {
+    text-decoration: none;
+    color: #121212;
+    font-size: 3.5em;
+    font-family: "MS Gothic", sans-serif;
+  }
+  
+  &__level {
+    font-size: 0.5em;
+    font-weight: bold;
+  }
+
+  &__prononciation {
+    font-size: 1.7em;
+  }
+  
+  &__onyomi {  
+    &__title {
+      color: #87d3e6;
+      font-size: 2em;
+      margin-bottom: 10%;
+    }
+  }
+  
+  &__kunyomi {
+    &__title {
+      color: #70db8c;
+      font-size: 2em;
+      margin-bottom: 10%;
+    }
+  }
+
+  &__example {
+    margin-top: 5%;
+    margin-bottom: 2%;
+    font-weight: bold;
+
+    &__item {
+      margin-bottom: 2%;
+    }
+  }
+  
+  &__separation {
+    border-bottom: solid 1px #dddddd;
+    width: 90%;
+    padding-bottom: 2%;
+    margin-bottom: 2%;
+  }
+}

@@ -1,0 +1,75 @@
+[
+    {
+        "id": 1,
+        "kanji": "力",
+        "level": 4,
+        "meaning": "Force",
+        "onyomi": "リョク、リキ",
+        "onyomiExample": [
+            {
+                "example": "協力（きょうりょく）",
+                "translation": "Coopération"
+            },
+            {
+                "example": "力士（りきし）",
+                "translation": "Rikishi"
+            }
+        ],
+        "kunyomi": "ちから",
+        "kunyomiExample": []
+    },
+    {
+        "id": 2,
+        "kanji": "夕",
+        "level": 4,
+        "meaning": "Soir, soirée",
+        "onyomi": "セキ",
+        "onyomiExample": [
+            {
+                "example": "一夕（いっせき）",
+                "translation": "Un soir"
+            }
+        ],
+        "kunyomi": "ゆう",
+        "kunyomiExample": [
+            {
+                "example": "夕方（ゆうがた）",
+                "translation": "Soir, soirée"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "kanji": "字",
+        "level": 4,
+        "meaning": "Lettre, mot, hameau",
+        "onyomi": "ジ",
+        "onyomiExample": [],
+        "kunyomi": "あざ",
+        "kunyomiExample": [
+            {
+                "example": "字（あざ）",
+                "translation": "Hameau"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "kanji": "文",
+        "level": 4,
+        "meaning": "Littérature, phrase",
+        "onyomi": "ブン、モン",
+        "onyomiExample": [
+            {
+                "example": "作文（さくぶん）",
+                "translation": "Rédaction"
+            },
+            {
+                "example": "注文（ちゅうもん）",
+                "translation": "Commande, ordre"
+            }
+        ],
+        "kunyomi": "",
+        "kunyomiExample": []
+    }
+]

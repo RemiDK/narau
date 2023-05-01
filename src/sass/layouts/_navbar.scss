@@ -1,0 +1,16 @@
+.navbar {
+  display: flex;
+  justify-content: center;
+  color: #ffffff;
+  font-weight: bold;
+  font-size: 1.2vw;
+  font-family: Calibri, serif;
+
+  :first-child {
+    margin-right: 1%;
+  }
+
+  :last-child {
+    margin-left: 1%;
+  }
+}

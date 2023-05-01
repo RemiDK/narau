@@ -1,0 +1,14 @@
+.kanji-exercise {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+    &__row {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        flex-wrap: wrap;
+        padding-top: 3%;
+    }
+  }
