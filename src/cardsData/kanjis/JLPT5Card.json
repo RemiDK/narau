@@ -130,7 +130,7 @@
     "meaning": "Cent",
     "onyomi": "ヒャク、ビャク",
     "onyomiExample": [],
-    "kunyomi": "ここの",
+    "kunyomi": "",
     "kunyomiExample": []
   },
   {
@@ -360,7 +360,7 @@
     "kanji": "右",
     "level": 5,
     "meaning": "Droite",
-    "onyomi": "ユウ、ウ",
+    "onyomi": "ユウ",
     "onyomiExample": [
       {
         "example": "左右（さゆう）",
@@ -375,7 +375,7 @@
     "kanji": "左",
     "level": 5,
     "meaning": "Gauche",
-    "onyomi": "ユウ",
+    "onyomi": "サ",
     "onyomiExample": [
       {
         "example": "左右（さゆう）",
@@ -1230,7 +1230,7 @@
     "id": 90,
     "kanji": "語",
     "level": 5,
-    "meaning": "Ouest",
+    "meaning": "Langage, mot, raconter",
     "onyomi": "ゴ",
     "onyomiExample": [],
     "kunyomi": "かた.る",

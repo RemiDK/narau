@@ -3,9 +3,9 @@
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  border-radius: 5px;
+  border-radius: 10px;
   cursor: pointer;
-  padding: 2%;
+  padding: 2px;
   margin: 25px;
   box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
   transition: all .2s ease-in-out;
@@ -14,6 +14,9 @@
   &:hover {
     transform: scale(1.05);
     background-color: #f7f7f7;
+    .custom-card__hover-display {
+      display: block;
+    }
   }
 
   &__kanji {
@@ -21,6 +24,54 @@
     color: #121212;
     font-size: 2em;
     font-family: "MS Gothic", sans-serif;
+  }
+
+  &__hover-display {
+    display: none;
+  }
+
+  &__prononciation {
+    font-size: 1.7em;
+  }
+  
+  &__onyomi {  
+    &__title {
+      text-align: center;
+      color: #87d3e6;
+      font-size: 1.5rem;
+      margin: 15px 0;
+    }
+  }
+  
+  &__kunyomi {
+    &__title {
+      text-align: center;
+      color: #70db8c;
+      font-size: 1.5rem;
+      margin: 15px 0;
+    }
+  }
+
+  &__example {
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 2%;
+    font-weight: bold;
+
+    &__item {
+      margin-bottom: 2%;
+    }
+  }
+  
+  &__separation {
+    border-bottom: solid 1px #dddddd;
+    margin: 15px 0;
+  }
+
+  &__prononciation {
+    text-align: center;
+    font-size: 1.2rem;
+    margin-bottom: 5px;
   }
 
   &__vocabulary-word {

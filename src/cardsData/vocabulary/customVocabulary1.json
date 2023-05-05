@@ -1,14 +1,530 @@
 [
     {
         "id": 1,
-        "word": "浴びる",
-        "kana": "あびる",
-        "translation": "Se baigner, se laver",
+        "word": "に加えて",
+        "kana": "にくわえて",
+        "translation": "En plus de",
+        "example": []
+    },
+    {
+        "id": 2,
+        "word": "歴史上",
+        "kana": "れきしじょう",
+        "translation": "Historiquement",
+        "example": []
+    },
+    {
+        "id": 3,
+        "word": "鎌倉",
+        "kana": "かまくら",
+        "translation": "Kamakura. Faucille, faux + grenier, entrepôt",
+        "example": []
+    },
+    {
+        "id": 4,
+        "word": "同級生",
+        "kana": "どうきゅうせい",
+        "translation": "Camarade de classe",
+        "example": []
+    },
+    {
+        "id": 5,
+        "word": "~と違って",
+        "kana": "とちがって",
+        "translation": "Contrairement à",
+        "example": []
+    },
+    {
+        "id": 6,
+        "word": "行方不明",
+        "kana": "ゆくえふめい",
+        "translation": "Disparu",
+        "example": []
+    },
+    {
+        "id": 7,
+        "word": "交通事故",
+        "kana": "こうつうじこ",
+        "translation": "Accident de la route",
+        "example": []
+    },
+    {
+        "id": 8,
+        "word": "預かる",
+        "kana": "あずかる",
+        "translation": "Prendre soin de, s'occuper de",
+        "example": []
+    },
+    {
+        "id": 9,
+        "word": "近所",
+        "kana": "きんじょ",
+        "translation": "Voisinage",
+        "example": []
+    },
+    {
+        "id": 10,
+        "word": "親戚",
+        "kana": "しんせき",
+        "translation": "Parent, parenté",
+        "example": []
+    },
+    {
+        "id": 11,
+        "word": "従妹",
+        "kana": "いとこ",
+        "translation": "Cousine",
+        "example": []
+    },
+    {
+        "id": 12,
+        "word": "空き地",
+        "kana": "あきち",
+        "translation": "Terrain vague, clairière",
+        "example": []
+    },
+    {
+        "id": 13,
+        "word": "泊まる",
+        "kana": "とまる",
+        "translation": "Passer la nuir",
+        "example": []
+    },
+    {
+        "id": 14,
+        "word": "いつの間にか",
+        "kana": "いつのまにか",
+        "translation": "Avant qu'on s'en rende compte",
+        "example": []
+    },
+    {
+        "id": 15,
+        "word": "隠す/隠れる",
+        "kana": "かくす",
+        "translation": "Se cacher/cacher",
+        "example": []
+    },
+    {
+        "id": 16,
+        "word": "恰好",
+        "kana": "かっこう",
+        "translation": "Apparence, situation",
+        "example": []
+    },
+    {
+        "id": 17,
+        "word": "階段",
+        "kana": "かいだん",
+        "translation": "Escalier",
+        "example": []
+    },
+    {
+        "id": 18,
+        "word": "仲良く",
+        "kana": "なかよく",
+        "translation": "En bons termes",
+        "example": []
+    },
+    {
+        "id": 19,
+        "word": "凄い",
+        "kana": "すごい",
+        "translation": "Super, très",
+        "example": []
+    },
+    {
+        "id": 20,
+        "word": "ちゃんと",
+        "kana": "",
+        "translation": "Correctement",
+        "example": []
+    },
+    {
+        "id": 21,
+        "word": "何とかなる",
+        "kana": "なんとかなる",
+        "translation": "S'améliorer",
+        "example": []
+    },
+    {
+        "id": 22,
+        "word": "絵",
+        "kana": "え",
+        "translation": "Peinture, dessin, image",
+        "example": []
+    },
+    {
+        "id": 23,
+        "word": "描く",
+        "kana": "えがく",
+        "translation": "Dessiner, peindre",
+        "example": []
+    },
+    {
+        "id": 24,
+        "word": "地味",
+        "kana": "じみ",
+        "translation": "Modeste, sobre",
+        "example": []
+    },
+    {
+        "id": 25,
+        "word": "目立つ",
+        "kana": "めだつ",
+        "translation": "Se faire remarquer, être voyant",
+        "example": []
+    },
+    {
+        "id": 26,
+        "word": "優しい",
+        "kana": "やさしい",
+        "translation": "Gentil",
+        "example": []
+    },
+    {
+        "id": 27,
+        "word": "宿題",
+        "kana": "しゅくだい",
+        "translation": "Devoirs, exercices",
+        "example": []
+    },
+    {
+        "id": 28,
+        "word": "おやつ",
+        "kana": "",
+        "translation": "Gouter, 4h",
+        "example": []
+    },
+    {
+        "id": 29,
+        "word": "お土産",
+        "kana": "おみやげ",
+        "translation": "Cadeau, souvenir",
+        "example": []
+    },
+    {
+        "id": 30,
+        "word": "貰う",
+        "kana": "もらう",
+        "translation": "Recevoir",
+        "example": []
+    },
+    {
+        "id": 31,
+        "word": "隣同士",
+        "kana": "となりどうし",
+        "translation": "Voisin de palier, de table",
+        "example": []
+    },
+    {
+        "id": 32,
+        "word": "書き取る",
+        "kana": "かきとる",
+        "translation": "Prendre en note",
+        "example": []
+    },
+    {
+        "id": 33,
+        "word": "急ぐ",
+        "kana": "いそぐ",
+        "translation": "Se dépêcher",
+        "example": []
+    },
+    {
+        "id": 34,
+        "word": "焦ります",
+        "kana": "あせります",
+        "translation": "Se hâter, s'impatienter",
+        "example": []
+    },
+    {
+        "id": 35,
+        "word": "面倒",
+        "kana": "もんどう",
+        "translation": "Ennui, difficulté",
+        "example": []
+    },
+    {
+        "id": 36,
+        "word": "かなり",
+        "kana": "",
+        "translation": "Plutôt, assez",
+        "example": []
+    },
+    {
+        "id": 37,
+        "word": "割合",
+        "kana": "わりあい",
+        "translation": "Proportion, rapport",
+        "example": []
+    },
+    {
+        "id": 38,
+        "word": "自覚する",
+        "kana": "じかくする",
+        "translation": "Prendre conscience de",
+        "example": []
+    },
+    {
+        "id": 39,
+        "word": "なんか",
+        "kana": "",
+        "translation": "Comme",
+        "example": []
+    },
+    {
+        "id": 40,
+        "word": "気付く",
+        "kana": "きづく",
+        "translation": "Remarquer",
+        "example": []
+    },
+    {
+        "id": 41,
+        "word": "もしかして",
+        "kana": "",
+        "translation": "Si par hasard, peut-être",
+        "example": []
+    },
+    {
+        "id": 42,
+        "word": "他人",
+        "kana": "たにん",
+        "translation": "Les autres, un autre",
+        "example": []
+    },
+    {
+        "id": 43,
+        "word": "親切",
+        "kana": "しんせつ",
+        "translation": "Bonté, gentillesse",
+        "example": []
+    },
+    {
+        "id": 44,
+        "word": "詳しい",
+        "kana": "くわしい",
+        "translation": "Précis, détaillé",
+        "example": []
+    },
+    {
+        "id": 45,
+        "word": "似合う",
+        "kana": "にあう",
+        "translation": "Aller bien, convenir",
+        "example": []
+    },
+    {
+        "id": 46,
+        "word": "試し",
+        "kana": "ためし",
+        "translation": "Essai, test",
+        "example": []
+    },
+    {
+        "id": 47,
+        "word": "告白",
+        "kana": "こくはく",
+        "translation": "Aveu, confession, déclaration d'amour",
+        "example": []
+    },
+    {
+        "id": 48,
+        "word": "俺",
+        "kana": "おれ",
+        "translation": "Je",
+        "example": []
+    },
+    {
+        "id": 50,
+        "word": "丁度",
+        "kana": "ちょうど",
+        "translation": "Juste, exactement",
+        "example": []
+    },
+    {
+        "id": 51,
+        "word": "通う",
+        "kana": "かよう",
+        "translation": "Fréquenter, circuler",
+        "example": []
+    },
+    {
+        "id": 52,
+        "word": "制服",
+        "kana": "せいふく",
+        "translation": "Uniforme",
+        "example": []
+    },
+    {
+        "id": 53,
+        "word": "姿",
+        "kana": "すがた",
+        "translation": "Silhouette",
+        "example": []
+    },
+    {
+        "id": 54,
+        "word": "下心",
+        "kana": "したごころ",
+        "translation": "Arrière-pensée",
+        "example": []
+    },
+    {
+        "id": 55,
+        "word": "ちなみに",
+        "kana": "",
+        "translation": "A ce propos, à ce sujet",
         "example": [
             {
                 "sentence": "シャワーを浴びる",
                 "translation": "Prendre une douche"
             }
         ]
+    },
+    {
+        "id": 56,
+        "word": "切符",
+        "kana": "きっぷ",
+        "translation": "Ticket",
+        "example": []
+    },
+    {
+        "id": 57,
+        "word": "国際空気",
+        "kana": "こくさいくうき",
+        "translation": "Aéroport international",
+        "example": []
+    },
+    {
+        "id": 58,
+        "word": "様子",
+        "kana": "そうす",
+        "translation": "Etat, situation",
+        "example": []
+    },
+    {
+        "id": 59,
+        "word": "紹介する",
+        "kana": "しょうかいする",
+        "translation": "Présenter",
+        "example": []
+    },
+    {
+        "id": 60,
+        "word": "招待する",
+        "kana": "しょうたいする",
+        "translation": "Inviter",
+        "example": []
+    },
+    {
+        "id": 61,
+        "word": "早速",
+        "kana": "さっそく",
+        "translation": "Immédiatemment",
+        "example": []
+    },
+    {
+        "id": 62,
+        "word": "選ぶ",
+        "kana": "えらぶ",
+        "translation": "Choisir",
+        "example": []
+    },
+    {
+        "id": 63,
+        "word": "荷物",
+        "kana": "にもつ",
+        "translation": "Bagages",
+        "example": []
+    },
+    {
+        "id": 64,
+        "word": "自動販売機",
+        "kana": "じどうはんばいき",
+        "translation": "Distributeur",
+        "example": []
+    },
+    {
+        "id": 65,
+        "word": "伝統",
+        "kana": "でんとう",
+        "translation": "Tradition",
+        "example": []
+    },
+    {
+        "id": 66,
+        "word": "改札",
+        "kana": "かいさつ",
+        "translation": "Contrôle des billets",
+        "example": []
+    },
+    {
+        "id": 67,
+        "word": "利用",
+        "kana": "りよう",
+        "translation": "Utilisation",
+        "example": []
+    },
+    {
+        "id": 68,
+        "word": "閉店",
+        "kana": "へいてん",
+        "translation": "Fermeture du magasin",
+        "example": []
+    },
+    {
+        "id": 69,
+        "word": "ぎりぎり",
+        "kana": "",
+        "translation": "De justesse, au dernier moment",
+        "example": []
+    },
+    {
+        "id": 70,
+        "word": "工房",
+        "kana": "こうぼう",
+        "translation": "Atelier",
+        "example": []
+    },
+    {
+        "id": 71,
+        "word": "情報",
+        "kana": "じょうほう",
+        "translation": "Information",
+        "example": []
+    },
+    {
+        "id": 72,
+        "word": "店舗",
+        "kana": "てんぽ",
+        "translation": "Magasin",
+        "example": [
+            {
+                "sentence": "シャワーを浴びる",
+                "translation": "Prendre une douche"
+            }
+        ]
+    },
+    {
+        "id": 73,
+        "word": "限定",
+        "kana": "げんてい",
+        "translation": "Limite, restriction",
+        "example": []
+    },
+    {
+        "id": 74,
+        "word": "動画",
+        "kana": "どうが",
+        "translation": "Vidéo, animation",
+        "example": []
+    },
+    {
+        "id": 75,
+        "word": "接する",
+        "kana": "せっする",
+        "translation": "Toucher, entrer en contact",
+        "example": []
     }
 ]

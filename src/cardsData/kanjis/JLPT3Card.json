@@ -1,21 +1,32 @@
 [
     {
-        "id": 6,
-        "kanji": "力",
-        "level": 4,
-        "meaning": "Force",
-        "onyomi": "リョク、リキ",
+        "id": 1,
+        "kanji": "政",
+        "level": 3,
+        "meaning": "Politique, gouvernement",
+        "onyomi": "セイ",
         "onyomiExample": [
             {
-                "example": "協力（きょうりょく）",
-                "translation": "Coopération"
-            },
-            {
-                "example": "力士（りきし）",
-                "translation": "Rikishi"
+                "example": "政治（せいじ）",
+                "translation": "Politique"
             }
         ],
-        "kunyomi": "ちから",
+        "kunyomi": "まつりごと",
+        "kunyomiExample": []
+    },
+    {
+        "id": 2,
+        "kanji": "議",
+        "level": 3,
+        "meaning": "Entretien, débat",
+        "onyomi": "ギ",
+        "onyomiExample": [
+            {
+                "example": "会議（かいぎ）",
+                "translation": "Conférence, réunion"
+            }
+        ],
+        "kunyomi": "",
         "kunyomiExample": []
     }
 ]
