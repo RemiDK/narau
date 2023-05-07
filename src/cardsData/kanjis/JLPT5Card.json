@@ -1235,5 +1235,170 @@
     "onyomiExample": [],
     "kunyomi": "かた.る",
     "kunyomiExample": []
+  },
+  {
+    "id": 91,
+    "kanji": "読",
+    "level": 5,
+    "meaning": "Lire",
+    "onyomi": "ドク",
+    "onyomiExample": [
+      {
+        "example": "読解（どっかい）",
+        "translation": "Compréhension écrite"
+      }
+    ],
+    "kunyomi": "よ.む",
+    "kunyomiExample": []
+  },
+  {
+    "id": 92,
+    "kanji": "買",
+    "level": 5,
+    "meaning": "Acheter",
+    "onyomi": "バイ",
+    "onyomiExample": [
+      {
+        "example": "売買（ばいばい）",
+        "translation": "Commerce"
+      }
+    ],
+    "kunyomi": "か.う",
+    "kunyomiExample": []
+  },
+  {
+    "id": 93,
+    "kanji": "週",
+    "level": 5,
+    "meaning": "Semaine",
+    "onyomi": "シユウ",
+    "onyomiExample": [],
+    "kunyomi": "",
+    "kunyomiExample": []
+  },
+  {
+    "id": 94,
+    "kanji": "道",
+    "level": 5,
+    "meaning": "Voie, chemin",
+    "onyomi": "ドウ",
+    "onyomiExample": [],
+    "kunyomi": "みち",
+    "kunyomiExample": []
+  },
+  {
+    "id": 95,
+    "kanji": "長",
+    "level": 5,
+    "meaning": "Chef, long",
+    "onyomi": "チョウ",
+    "onyomiExample": [
+      {
+        "example": "校長（こうちょう）",
+        "translation": "Principal d'école"
+      }
+    ],
+    "kunyomi": "なが.い",
+    "kunyomiExample": []
+  },
+  {
+    "id": 96,
+    "kanji": "間",
+    "level": 5,
+    "meaning": "Intervalle",
+    "onyomi": "カン",
+    "onyomiExample": [],
+    "kunyomi": "あいだ、ま",
+    "kunyomiExample": []
+  },
+  {
+    "id": 97,
+    "kanji": "電",
+    "level": 5,
+    "meaning": "Éléctricité",
+    "onyomi": "デン",
+    "onyomiExample": [],
+    "kunyomi": "",
+    "kunyomiExample": []
+  },
+  {
+    "id": 98,
+    "kanji": "食",
+    "level": 5,
+    "meaning": "Manger, nourriture",
+    "onyomi": "ショク",
+    "onyomiExample": [
+      {
+        "example": "食堂（しょくどう）",
+        "translation": "Salle à manger"
+      }
+    ],
+    "kunyomi": "たべ.る",
+    "kunyomiExample": []
+  },
+  {
+    "id": 99,
+    "kanji": "高",
+    "level": 5,
+    "meaning": "Haut, cher",
+    "onyomi": "コウ",
+    "onyomiExample": [],
+    "kunyomi": "たか.い",
+    "kunyomiExample": []
+  },
+  {
+    "id": 100,
+    "kanji": "魚",
+    "level": 5,
+    "meaning": "Poisson",
+    "onyomi": "ギョ",
+    "onyomiExample": [],
+    "kunyomi": "さかな、うお",
+    "kunyomiExample": [
+      {
+        "example": "魚市場（うおいちば）",
+        "translation": "Marché aux poissons"
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "kanji": "安",
+    "level": 5,
+    "meaning": "Bon marché, sûr",
+    "onyomi": "アン",
+    "onyomiExample": [
+      {
+        "example": "安全（あんぜん）",
+        "translation": "Sûr"
+      }
+    ],
+    "kunyomi": "やす.い",
+    "kunyomiExample": []
+  },
+  {
+    "id": 102,
+    "kanji": "飲",
+    "level": 5,
+    "meaning": "Boire",
+    "onyomi": "イン",
+    "onyomiExample": [
+      {
+        "example": "飲料（いんりょう）",
+        "translation": "Boisson"
+      }
+    ],
+    "kunyomi": "の.む",
+    "kunyomiExample": []
+  },
+  {
+    "id": 103,
+    "kanji": "駅",
+    "level": 5,
+    "meaning": "Gare",
+    "onyomi": "エキ",
+    "onyomiExample": [],
+    "kunyomi": "",
+    "kunyomiExample": []
   }
 ]

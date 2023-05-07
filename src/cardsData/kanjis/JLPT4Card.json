@@ -71,5 +71,307 @@
         ],
         "kunyomi": "",
         "kunyomiExample": []
+    },
+    {
+        "id": 5,
+        "kanji": "同",
+        "level": 4,
+        "meaning": "Identique",
+        "onyomi": "ドウ",
+        "onyomiExample": [
+            {
+                "example": "同時（どうじ）",
+                "translation": "Au même moment"
+            }
+        ],
+        "kunyomi": "おな.じ",
+        "kunyomiExample": []
+    },
+    {
+        "id": 6,
+        "kanji": "事",
+        "level": 4,
+        "meaning": "Fait, chose abstraite",
+        "onyomi": "ジ",
+        "onyomiExample": [],
+        "kunyomi": "こと",
+        "kunyomiExample": []
+    },
+    {
+        "id": 7,
+        "kanji": "自",
+        "level": 4,
+        "meaning": "Soi",
+        "onyomi": "ジ、シ",
+        "onyomiExample": [
+            {
+                "example": "自分",
+                "translation": "Soi-même"
+            },
+            {
+                "example": "自然",
+                "translation": "Nature"
+            }
+        ],
+        "kunyomi": "みずか.ら",
+        "kunyomiExample": []
+    },
+    {
+        "id": 8,
+        "kanji": "発",
+        "level": 4,
+        "meaning": "Départ",
+        "onyomi": "ハツ",
+        "onyomiExample": [],
+        "kunyomi": "た.つ",
+        "kunyomiExample": [
+            {
+                "example": "発つ",
+                "translation": "Se lever, partir, quitter"
+            },
+            {
+                "example": "自分",
+                "translation": "Soi-même"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "kanji": "者",
+        "level": 4,
+        "meaning": "Personne",
+        "onyomi": "シャ",
+        "onyomiExample": [],
+        "kunyomi": "もの",
+        "kunyomiExample": []
+    },
+    {
+        "id": 10,
+        "kanji": "地",
+        "level": 4,
+        "meaning": "Sol",
+        "onyomi": "チ、ジ",
+        "onyomiExample": [],
+        "kunyomi": "",
+        "kunyomiExample": []
+    },
+    {
+        "id": 11,
+        "kanji": "業",
+        "level": 4,
+        "meaning": "Activité, profession",
+        "onyomi": "ギョウ",
+        "onyomiExample": [
+            {
+                "example": "授業（じゅぎょう）",
+                "translation": "Cours, classe"
+            }
+        ],
+        "kunyomi": "わざ",
+        "kunyomiExample": []
+    },
+    {
+        "id": 12,
+        "kanji": "方",
+        "level": 4,
+        "meaning": "Personne, direction",
+        "onyomi": "ホウ",
+        "onyomiExample": [
+            {
+                "example": "方法（ほうほう）",
+                "translation": "Méthode, manière"
+            }
+        ],
+        "kunyomi": "かた",
+        "kunyomiExample": []
+    },
+    {
+        "id": 13,
+        "kanji": "場",
+        "level": 4,
+        "meaning": "Lieu",
+        "onyomi": "ジョウ",
+        "onyomiExample": [
+            {
+                "example": "駐車場（ちゅうしゃじょう）",
+                "translation": "Parking"
+            }
+        ],
+        "kunyomi": "ば",
+        "kunyomiExample": [
+            {
+                "example": "売り場（うりば）",
+                "translation": "Espace de vente"
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "kanji": "員",
+        "level": 4,
+        "meaning": "Employé",
+        "onyomi": "イン",
+        "onyomiExample": [],
+        "kunyomi": "",
+        "kunyomiExample": []
+    },
+    {
+        "id": 15,
+        "kanji": "開",
+        "level": 4,
+        "meaning": "Ouvrir",
+        "onyomi": "カイ",
+        "onyomiExample": [
+            {
+                "example": "開始",
+                "translation": "Début"
+            }
+        ],
+        "kunyomi": "あ.く、ひら.く",
+        "kunyomiExample": []
+    },
+    {
+        "id": 16,
+        "kanji": "問",
+        "level": 4,
+        "meaning": "Question, demander",
+        "onyomi": "モン",
+        "onyomiExample": [],
+        "kunyomi": "と.う",
+        "kunyomiExample": []
+    },
+    {
+        "id": 17,
+        "kanji": "代",
+        "level": 4,
+        "meaning": "Génération, prix",
+        "onyomi": "ダイ",
+        "onyomiExample": [],
+        "kunyomi": "か.わり",
+        "kunyomiExample": []
+    },
+    {
+        "id": 18,
+        "kanji": "明",
+        "level": 4,
+        "meaning": "Clair, brillant",
+        "onyomi": "メイ",
+        "onyomiExample": [
+            {
+                "example": "説明（せつめい）",
+                "translation": "Explication"
+            }
+        ],
+        "kunyomi": "あか.るい",
+        "kunyomiExample": []
+    },
+    {
+        "id": 19,
+        "kanji": "動",
+        "level": 4,
+        "meaning": "Bouger, mouvement",
+        "onyomi": "ドウ",
+        "onyomiExample": [
+            {
+                "example": "動物",
+                "translation": "Animal"
+            }
+        ],
+        "kunyomi": "うご.く",
+        "kunyomiExample": []
+    },
+    {
+        "id": 20,
+        "kanji": "京",
+        "level": 4,
+        "meaning": "Capitale",
+        "onyomi": "キョウ、キン",
+        "onyomiExample": [
+            {
+                "example": "南京",
+                "translation": "Nankin"
+            }
+        ],
+        "kunyomi": "みやこ",
+        "kunyomiExample": []
+    },
+    {
+        "id": 21,
+        "kanji": "通",
+        "level": 4,
+        "meaning": "Circulation, rue",
+        "onyomi": "ツウ",
+        "onyomiExample": [
+            {
+                "example": "開始",
+                "translation": "Début"
+            }
+        ],
+        "kunyomi": "とお.る、かよ.う",
+        "kunyomiExample": []
+    },
+    {
+        "id": 22,
+        "kanji": "理",
+        "level": 4,
+        "meaning": "Raison, logique",
+        "onyomi": "リ",
+        "onyomiExample": [
+            {
+                "example": "開始",
+                "translation": "Début"
+            }
+        ],
+        "kunyomi": "あ.く、ひら.く",
+        "kunyomiExample": []
+    },
+    {
+        "id": 23,
+        "kanji": "タイ",
+        "level": 4,
+        "meaning": "Ouvrir",
+        "onyomi": "カイ",
+        "onyomiExample": [
+            {
+                "example": "大体",
+                "translation": "A peu près, dans l'ensemble"
+            }
+        ],
+        "kunyomi": "からだ",
+        "kunyomiExample": []
+    },
+    {
+        "id": 24,
+        "kanji": "田",
+        "level": 4,
+        "meaning": "Rizière",
+        "onyomi": "カイ",
+        "onyomiExample": [
+            {
+                "example": "田園",
+                "translation": "Campagnard, rural"
+            }
+        ],
+        "kunyomi": "た",
+        "kunyomiExample": []
+    },
+    {
+        "id": 25,
+        "kanji": "主",
+        "level": 4,
+        "meaning": "Seigneur, maître, mari",
+        "onyomi": "シュ",
+        "onyomiExample": [],
+        "kunyomi": "ぬし、おも",
+        "kunyomiExample": [
+            {
+                "example": "家主（やぬし）",
+                "translation": "Propriétaire d'un logement"
+            },
+            {
+                "example": "主に（おもに）",
+                "translation": "Principalement, essentiellement"
+            }
+        ]
     }
 ]
