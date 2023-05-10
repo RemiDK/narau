@@ -6,6 +6,8 @@ import KanjiCard from '../components/kanjis/KanjiCard.vue'
 import KanjiExerciseOptions from '../components/kanjis/KanjiExerciseOptions.vue'
 import KanjiExercise from '../components/kanjis/KanjiExercise.vue'
 import AllVocabularyCards from '../components/vocabulary/AllVocabularyCards.vue'
+import VocabularyExerciseOptions from '../components/vocabulary/VocabularyExerciseOptions.vue'
+import VocabularyExercise from '../components/vocabulary/VocabularyExercise.vue'
 
 const routes = [
   {
@@ -39,6 +41,17 @@ const routes = [
     path: '/vocabulary/all',
     name: "AllVocabularyCards",
     component: AllVocabularyCards,
+  },
+  {
+    path: '/vocabulary/ExerciseOptions',
+    name: "VocabularyExerciseOptions",
+    component: VocabularyExerciseOptions,
+  },
+  {
+    path: '/vocabulary/VocabularyExercise/:selectedType/:jlptLevel',
+    name: "VocabularyExercise",
+    component: VocabularyExercise,
+    props: true
   }
 ]
 

@@ -42,7 +42,6 @@
 import jlpt5 from "../../cardsData/kanjis/JLPT5Card.json";
 import jlpt4 from "../../cardsData/kanjis/JLPT4Card.json";
 import jlpt3 from "../../cardsData/kanjis/JLPT3Card.json";
-import router from "../../router";
 import {onMounted, ref, Ref} from "vue";
 import {kanjiInterface} from "../../interfaces/kanjiInterface";
 import KanjiNavbar from "../navbars/KanjiNavbar.vue";

@@ -21,7 +21,7 @@
           <div class="category-box__title">Vocabulaire</div>
           <div class="category-box__list">
             <v-btn to="/vocabulary/all" variant="outlined" class="category-box__list__element">Toutes les cartes</v-btn>
-            <v-btn variant="outlined" class="category-box__list__element">Exercices</v-btn>
+            <v-btn to="/vocabulary/ExerciseOptions" variant="outlined" class="category-box__list__element">Exercices</v-btn>
           </div>
         </div>
       </v-col>

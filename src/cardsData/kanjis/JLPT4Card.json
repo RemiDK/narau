@@ -128,10 +128,6 @@
             {
                 "example": "発つ",
                 "translation": "Se lever, partir, quitter"
-            },
-            {
-                "example": "自分",
-                "translation": "Soi-même"
             }
         ]
     },
@@ -223,7 +219,7 @@
         "onyomi": "カイ",
         "onyomiExample": [
             {
-                "example": "開始",
+                "example": "開始（かいし）",
                 "translation": "Début"
             }
         ],
@@ -316,21 +312,16 @@
         "level": 4,
         "meaning": "Raison, logique",
         "onyomi": "リ",
-        "onyomiExample": [
-            {
-                "example": "開始",
-                "translation": "Début"
-            }
-        ],
-        "kunyomi": "あ.く、ひら.く",
+        "onyomiExample": [],
+        "kunyomi": "",
         "kunyomiExample": []
     },
     {
         "id": 23,
-        "kanji": "タイ",
+        "kanji": "体",
         "level": 4,
-        "meaning": "Ouvrir",
-        "onyomi": "カイ",
+        "meaning": "Corps",
+        "onyomi": "タイ",
         "onyomiExample": [
             {
                 "example": "大体",
@@ -345,10 +336,10 @@
         "kanji": "田",
         "level": 4,
         "meaning": "Rizière",
-        "onyomi": "カイ",
+        "onyomi": "でん",
         "onyomiExample": [
             {
-                "example": "田園",
+                "example": "田園（でんえん）",
                 "translation": "Campagnard, rural"
             }
         ],
@@ -373,5 +364,40 @@
                 "translation": "Principalement, essentiellement"
             }
         ]
+    },
+    {
+        "id": 26,
+        "kanji": "題",
+        "level": 4,
+        "meaning": "Sujet, thème",
+        "onyomi": "ダイ",
+        "onyomiExample": [],
+        "kunyomi": "",
+        "kunyomiExample": []
+    },
+    {
+        "id": 27,
+        "kanji": "意",
+        "level": 4,
+        "meaning": "Volontée, idée",
+        "onyomi": "イ",
+        "onyomiExample": [
+            {
+                "example": "意味（いみ）",
+                "translation": "Signification, sens"
+            }
+        ],
+        "kunyomi": "",
+        "kunyomiExample": []
+    },
+    {
+        "id": 28,
+        "kanji": "不",
+        "level": 4,
+        "meaning": "Préfixe de négation",
+        "onyomi": "フ、ブ",
+        "onyomiExample": [],
+        "kunyomi": "",
+        "kunyomiExample": []
     }
 ]

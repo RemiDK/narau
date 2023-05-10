@@ -1,0 +1,176 @@
+[
+    {
+        "id": 1,
+        "word": "浴びる",
+        "kana": "あびる",
+        "translation": "Se baigner, se laver",
+        "example": [
+            
+        {
+            "sentence": "シャワーを浴びる",
+            "translation": "Prendre une douche" 
+         }
+        ]
+    },
+    {
+        "id": 2,
+        "word": "危ない",
+        "kana": "あぶない",
+        "translation": "Dangereux",
+        "example": []
+    },
+    {
+        "id": 3,
+        "word": "上げる",
+        "kana": "あげる",
+        "translation": "Élever, soulever, augmenter, donner",
+        "example": []
+    },
+    {
+        "id": 4,
+        "word": "赤い",
+        "kana": "あかい",
+        "translation": "Rouge",
+        "example": []
+    },
+    {
+        "id": 5,
+        "word": "明るい",
+        "kana": "あかるい",
+        "translation": "Clair",
+        "example": []
+    },
+    {
+        "id": 6,
+        "word": "開ける",
+        "kana": "あける",
+        "translation": "Ouvrir",
+        "example": []
+    },
+    {
+        "id": 7,
+        "word": "あめ",
+        "kana": "",
+        "translation": "Bonbon",
+        "example": []
+    },
+    {
+        "id": 8,
+        "word": "洗う",
+        "kana": "あらう",
+        "translation": "Laver",
+        "example": []
+    },
+    {
+        "id": 9,
+        "word": "歩く",
+        "kana": "あるく",
+        "translation": "Marcher",
+        "example": []
+    },
+    {
+        "id": 10,
+        "word": "朝",
+        "kana": "あさ",
+        "translation": "Matin",
+        "example": []
+    },
+    {
+        "id": 11,
+        "word": "明後日",
+        "kana": "あさって",
+        "translation": "Après demain",
+        "example": []
+    },
+    {
+        "id": 12,
+        "word": "明日",
+        "kana": "あした",
+        "translation": "Demain",
+        "example": []
+    },
+    {
+        "id": 13,
+        "word": "遊ぶ",
+        "kana": "あそぶ",
+        "translation": "Jouer",
+        "example": []
+    },
+    {
+        "id": 14,
+        "word": "洗う",
+        "kana": "あらう",
+        "translation": "Laver",
+        "example": []
+    },
+    {
+        "id": 15,
+        "word": "頭",
+        "kana": "あたま",
+        "translation": "Tête",
+        "example": []
+    },
+    {
+        "id": 16,
+        "word": "暖かい",
+        "kana": "あたたかい",
+        "translation": "Chaud (agréable)",
+        "example": []
+    },
+    {
+        "id": 17,
+        "word": "厚い",
+        "kana": "あつい",
+        "translation": "Épais",
+        "example": []
+    },
+    {
+        "id": 18,
+        "word": "熱い",
+        "kana": "あつい",
+        "translation": "(trop) Chaud",
+        "example": []
+    },
+    {
+        "id": 19,
+        "word": "会います",
+        "kana": "あいます",
+        "translation": "Rencontrer, voir quelqu'un",
+        "example": []
+    },
+    {
+        "id": 20,
+        "word": "番号",
+        "kana": "ばんごう",
+        "translation": "Numéro",
+        "example": []
+    },
+    {
+        "id": 21,
+        "word": "勉強",
+        "kana": "べんきょう",
+        "translation": "Étudier",
+        "example": []
+    },
+    {
+        "id": 22,
+        "word": "便利",
+        "kana": "べんり",
+        "translation": "Utile, pratique",
+        "example": []
+    },
+    {
+        "id": 23,
+        "word": "ボールペン",
+        "kana": "",
+        "translation": "Stylo",
+        "example": []
+    },
+    {
+        "id": 24,
+        "word": "ボタン",
+        "kana": "",
+        "translation": "Bouton",
+        "example": []
+    }
+]
